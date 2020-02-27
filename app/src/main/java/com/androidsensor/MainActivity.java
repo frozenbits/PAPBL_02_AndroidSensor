@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
         {
             _sM.registerListener(sel,(Sensor)_listSenProx.get(0),SensorManager.SENSOR_DELAY_NORMAL);
         }
-        
+
     }
     @Override
     protected void onStop(){

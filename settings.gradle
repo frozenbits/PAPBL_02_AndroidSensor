@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='AndroidSensor'
+rootProject.name='Bab02_AndroidSensor'
